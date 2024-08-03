@@ -1,0 +1,51 @@
+"player_id","first_name","last_name","date_of_birth","club","shirt_number","fav_foot","status","annual_salary","nationality","player_goals","player_assists","market_value"
+1,"Pablo","Gavi","2004-08-05","FC Barcelona",6,"Right","Injured","6000000","Spain",12,10,80000000
+2,"Lionel","Messi","1987-06-24","Inter Miami CF",10,"Left","Active","41000000","Argentina",804,352,100000000
+3,"Zinedine","Zidane","1972-06-23","Retired",10,"Right","Retired","0","France",125,155,0
+4,"Kylian","Mbappe","1998-12-20","Real Madrid",9,"Right","Active","50000000","France",253,145,180000000
+5,"Toni","Kroos","1990-01-04","Retired",8,"Right","Retired","0","Germany",80,125,0
+6,"Karim","Benzema","1987-12-19","Al-Ittihad",9,"Right","Active","20000000","France",438,165,35000000
+7,"Neymar","da Silva Santos Júnior","1992-02-05","Al-Hilal",10,"Right","Active","36000000","Brazil",400,240,90000000
+8,"Mohamed","Salah","1992-06-15","Liverpool FC",11,"Left","Active","20000000","Egypt",259,124,90000000
+9,"Antonio","Rüdiger","1993-03-03","Real Madrid",2,"Right","Active","7000000","Germany",20,10,20000000
+10,"Virgil","van Dijk","1991-07-08","Liverpool FC",4,"Right","Active","10000000","Netherlands",15,10,25000000
+11,"Antoine","Griezmann","1991-03-21","Atlético Madrid",8,"Right","Active","15000000","France",291,168,35000000
+12,"Joshua","Kimmich","1995-02-08","Bayern Munich",6,"Right","Active","18000000","Germany",37,78,75000000
+13,"Alphonso","Davies","2000-11-02","Bayern Munich",19,"Left","Active","12000000","Canada",13,21,70000000
+14,"Erling","Haaland","2000-07-21","Manchester City",9,"Left","Active","30000000","Norway",186,45,150000000
+15,"Kevin","De Bruyne","1991-06-28","Manchester City",17,"Right","Active","25000000","Belgium",95,183,40000000
+16,"Marcus","Rashford","1997-10-31","Manchester United",10,"Right","Active","10400000","England",123,68,80000000
+17,"Harry","Kane","1993-07-28","Bayern Munich",9,"Right","Active","20000000","England",320,58,100000000
+18,"William","Saliba","2001-03-24","Arsenal",12,"Right","Active","5000000","France",6,2,50000000
+19,"Bukayo","Saka","2001-09-05","Arsenal",7,"Left","Active","12000000","England",37,33,85000000
+20,"Declan","Rice","1999-01-14","Arsenal",41,"Right","Active","12000000","England",15,20,80000000
+21,"Rodri","Hernández","1996-06-22","Manchester City",16,"Right","Active","13000000","Spain",10,12,60000000
+22,"Vinícius","Júnior","2000-07-12","Real Madrid",7,"Left","Active","12000000","Brazil",78,62,180000000
+23,"Eden","Hazard","1991-01-07","Retired",10,"Right","Retired","0","Belgium",167,140,0
+24,"Mason","Mount","1999-01-10","Manchester United",7,"Right","Active","7500000","England",33,37,55000000
+25,"Frenkie","de Jong","1997-05-12","FC Barcelona",21,"Right","Active","14000000","Netherlands",23,40,85000000
+26,"Matthijs","de Ligt","1999-08-12","Bayern Munich",4,"Right","Active","12000000","Netherlands",18,9,70000000
+27,"Lamine","Yamal","2007-07-13","FC Barcelona",27,"Left","Active","1000000","Spain",5,10,25000000
+28,"Eduardo","Camavinga","2002-11-10","Real Madrid",12,"Left","Active","8000000","France",6,8,60000000
+29,"Aurélien","Tchouaméni","2000-01-27","Real Madrid",18,"Right","Active","8000000","France",10,12,60000000
+30,"Leroy","Sané","1996-01-11","Bayern Munich",10,"Left","Active","17000000","Germany",85,93,70000000
+31,"Martin","Ødegaard","1998-12-17","Arsenal",8,"Left","Active","12000000","Norway",50,65,90000000
+32,"Alexander","Isak","1999-09-21","Newcastle United",14,"Left","Active","7000000","Sweden",41,15,50000000
+33,"Jan","Oblak","1993-01-07","Atletico Madrid",13,"Right","Active","12000000","Slovenia",0,0,40000000
+34,"Casemiro","Silva","1992-02-23","Manchester United",18,"Right","Active","20000000","Brazil",47,20,60000000
+35,"Cole","Palmer","2002-05-06","Chelsea FC",36,"Right","Active","3000000","England",28,17,100000000
+36,"Luka","Modrić","1985-09-09","Real Madrid",10,"Right","Active","15000000","Croatia",117,126,20000000
+37,"Phil","Foden","2000-05-28","Manchester City",47,"Right","Active","10000000","England",50,40,80000000
+38,"Son","Heung-min","1992-07-08","Tottenham Hotspur",7,"Left","Active","18000000","South Korea",159,88,70000000
+39,"Rafael","Leão","1999-06-10","AC Milan",17,"Left","Active","8000000","Portugal",35,23,60000000
+40,"Sven","Botman","1999-01-12","Newcastle United",4,"Left","Active","6000000","Netherlands",5,2,40000000
+41,"Oscar","dos Santos Emboaba","1991-09-09","Shanghai Port",8,"Right","Active","25000000","Brazil",72,63,20000000
+42,"Alexis","Mac Allister","1998-12-24","Liverpool",10,"Right","Active","5000000","Argentina",15,18,40000000
+43,"Gianluigi","Donnarumma","1999-02-25","Paris Saint-Germain",1,"Left","Active","12000000","Italy",0,0,60000000
+44,"Thibaut","Courtois","1992-05-11","Real Madrid",1,"Left","Active","15000000","Belgium",0,0,50000000
+45,"Rúben","Dias","1997-05-14","Manchester City",3,"Right","Active","12000000","Portugal",12,5,70000000
+46,"Cristian","Romero","1998-04-27","Tottenham Hotspur",4,"Right","Active","8000000","Argentina",10,6,50000000
+47,"Jude","Bellingham","2003-06-29","Real Madrid",5,"Right","Active","15000000","England",22,18,90000000
+48,"Federico","Valverde","1998-07-22","Real Madrid",15,"Right","Active","12000000","Uruguay",20,25,70000000
+49,"Florian","Wirtz","2003-05-03","Bayer Leverkusen",7,"Left","Active","7000000","Germany",19,22,50000000
+50,"Robert","Lewandowski","1988-08-21","Barcelona",9,"Right","Active","25000000","Poland",600,150,50000000
